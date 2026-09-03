@@ -3,9 +3,9 @@
 ##### Developed for Earth Analytics Data Science Bootcamp (GEOG 5463) at University of Colorado Boulder
 
 #### Background
-* Bachelors of Science in Aeronautics and Astronautics
-* Masters of Science in Aeronautics and Astronautics
-* Candidate for Masters of Science in Data Science
+* Bachelor of Science in Aeronautics and Astronautics
+* Master of Science in Aeronautics and Astronautics
+* Candidate for Master of Science in Data Science
 
 I have worked professionally as an aerospace engineer for many years. 
 My work has evolved to a data analyst role since 2020. 
