@@ -2,6 +2,8 @@
 ### Earth Data Science Portfolio
 ##### Developed for Earth Analytics Data Science Bootcamp (GEOG 5463) at University of Colorado Boulder
 
+![Colorado Sunrise](/img/CO_Sunrise.jpg "Colorado Sunrise")
+
 #### Background
 * Bachelor of Science in Aeronautics and Astronautics
 * Master of Science in Aeronautics and Astronautics
