@@ -2,7 +2,7 @@
 ### Earth Data Science Portfolio
 ##### Developed for Earth Analytics Data Science Bootcamp (GEOG 5463) at University of Colorado Boulder
 
-![Colorado Sunrise](/img/CO_Sunrise.jpeg "Colorado Sunrise")
+![Colorado Sunrise](img/CO_Sunrise.jpeg "Colorado Sunrise")
 
 #### Background
 * Bachelor of Science in Aeronautics and Astronautics
@@ -21,7 +21,7 @@ My family enjoys taking trips to Disneyland. One of our favorite rides is Big Th
 
 Here is a map of Big Thunder Mountain Railroad at Disneyland.
 
-<embed type = "text/html" src = "img/btmr.html" width = "600" height = "600">
+<embed type ="text/html" src ="img/btmr.html" width="600" height="600">
 
 #### Contact Information
 * erin.noonan@colorado.edu
