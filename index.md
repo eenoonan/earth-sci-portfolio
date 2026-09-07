@@ -1,6 +1,5 @@
 ### Earth Data Science Portfolio
-##### Developed for Earth Analytics Data Science Bootcamp (GEOG 5463) 
-#### at [University of Colorado Boulder](https://www.colorado.edu/)
+##### Developed for Earth Analytics Data Science Boot Camp (GEOG 5463) at [University of Colorado Boulder](https://www.colorado.edu/)
 
 ![Colorado Sunrise](img/CO_Sunrise.jpeg "Colorado Sunrise")
 
