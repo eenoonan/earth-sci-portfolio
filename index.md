@@ -1,3 +1,4 @@
+### Erin Noonan 
 ### Earth Data Science Portfolio
 ##### Developed for Earth Analytics Data Science Boot Camp (GEOG 5463) at [University of Colorado Boulder](https://www.colorado.edu/)
 
