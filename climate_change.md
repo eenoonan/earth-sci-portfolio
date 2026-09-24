@@ -13,7 +13,7 @@ This portfolio exercise directed an evaluation of available temperature observat
 Death Valley National Park was selected for this exercise not only for its renown as one of the hottest places on earth but also because the author spent several years 
 living in the high desert within driving distance of Death Valley. The map below shows the perimeter of Death Valley National Park in California. The red dot is weather station source for the NOAA data located at 36.46263°, -116.8672° and an elevation of -59.1 m.
 
-<embed type ="text/html" src ="img/dvnp_wxs.html" width="600" height="600">
+<embed type ="text/html" src ="img/dvnp_wxs.html" width="400" height="400">
 
 >**Figure 2.** *Map of Death Valley National Park perimeter and the data source weather station*
 
@@ -21,11 +21,11 @@ The NOAA CDO daily summary station for Death Valley National Park shows a period
 
 
 ![Death Valley Daily Temperatures](img/daily_temp_obs_dvnp.jpeg "Death Valley Daily Temperatures") 
->**Figure 3.** *Death Valley weather station daily observed temperatures showing the range of high desert environment temperatures and how observation time impacts observations**
+>**Figure 3.** *Death Valley weather station daily observed temperatures showing the range of high desert environment temperatures and how observation time impacts observations*
 
 In order to better visualize the temperature trends, an annual average observed temperature was calculated and plotted for each year. 
 
-<embed type ="text/html" src ="img/annual_temp_plot_death_valley.html" width="600" height="600">
+<embed type ="text/html" src ="img/annual_temp_plot_death_valley.html" width="400" height="400">
 
 >**Figure 4.** *Annual average observed temperature at Death Valley National Park (1962-2021) and the dependence of that value on the time of data collection*
 
@@ -41,7 +41,7 @@ An ordinary least squares (OLS) linear regression was fit for the complete set o
 
 Given this significant change in temperature data collection, it was decided to include the maximum and minimum temperature values as part of the regression evaluation for a more continuous data set across the time period. Comparing the annual average minimum and maximum temperature values to the observed temperature values, it is clear that the trends calculated for the observed temperatures were disrupted by the change in data collection protocols. The trend line slope for the maximum temperature was 0.033 deg C per year and 0.024 deg C per year for the minimum temperature. 
 
-<embed type ="text/html" src ="img/annual_all_temps_plot_death_valley.html" width="600" height="600">
+<embed type ="text/html" src ="img/annual_all_temps_plot_death_valley.html" width="400" height="400">
 
 >**Figure 7.** *Comparison of annual average temperatures at Death Valley National Park (1962-2021) for minimum, maximum, and observed temperature data sets show the impact of the temperature observation protocol change to the data set*
 
