@@ -50,6 +50,6 @@ Given this significant change in temperature data collection, it was decided to 
 
 As the trend data for the observed temperatures was not consistent enough to provide a valid trend over the time period being examined, it is reasonable to examine the minimum and maximum temperature trends instead. The maximum temperature slope of 0.033 deg C per year results in a temperature increase of 1.947 deg C over the 59 year period. The minimum temperature slope of 0.024 deg C per year results in a temperature increase of 1.416 deg C over the 59 year period. These are not trivial increases in temperature with regard to climate change. Areas for further investigation on this topic would include comparing these temperature trends to other locations in the United States as well as comparing the trends for the maximum and minimum temperature values to the observed values over the period of 1981 to 2021.
 
+[Link to the python code supporting this analysis](climate_change_notebook.html)
 
-
-
+[Return to Main Page](index.md)
