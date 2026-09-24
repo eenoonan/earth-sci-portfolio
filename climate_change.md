@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Climate Change: Death Valley National Park"
 permalink: /climate_change_dvnp/
+---
 
 There are a variety of climate change indicators available to the average observer. 
 Temperature is one of the most persistent measures of climate change, because it is always available to be measured. Furthermore, most people have a reliable frame of reference for temperature 
@@ -12,7 +14,7 @@ This portfolio exercise directed an evaluation of available temperature observat
 Death Valley National Park was selected for this exercise not only for its renown as one of the hottest places on earth but also because the author spent several years 
 living in the high desert within driving distance of Death Valley. The map below shows the perimeter of Death Valley National Park in California. The red dot is weather station source for the NOAA data located at 36.46263°, -116.8672° and an elevation of -59.1 m.
 
-<embed type ="text/html" src ="img/dvnp_wxs.html" width="600" height="600">
+<embed type ="text/html" src ="img/dvnp_wxs.html" width="600" height="400">
 
 The NOAA CDO daily summary station for Death Valley National Park shows a period of record of 26 April 1961 to the current month. While there are minimum and maximum values recorded through the 2026 data, the observed temperature values are NaN starting in 2022. This was verified by spot checking data using the Quick Data reports on the [station website](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00042319/detail). Further research revealed that changes were made to some of the Death Valley data collection after 2021 and there are changes being made to how Death Valley data is being stored and reported digitally as the [Death Valley Climate Book](https://www.weather.gov/vef/deathvalley_climatebook). Following preliminary examination of the data, it was determined that due to the large temperature swings of the high desert, using the partial year data for 1961 created a large disparity between the annual average temperature calculations for 1961 and for 1962 and later. Thus, the data was filtered to run from 1962-01-01 to 2021-12-31.
 
@@ -20,7 +22,7 @@ The NOAA CDO daily summary station for Death Valley National Park shows a period
 Need to add the daily observed temperatures
 
 In order to better visualize the temperature trends, an annual average observed temperature was calculated and plotted for each year. 
-<embed type ="text/html" src ="img/annual_temp_plot_death_valley.html" width="600" height="600">
+<embed type ="text/html" src ="img/annual_temp_plot_death_valley.html" width="600" height="300">
 
 In both of these plots, there is a clear shift in the daily observed temperature range. Further investigation found [documentation](https://www.weather.gov/media/vef/Climate/Death%20Valley%20Climate%20Book/Precipitation%20History%20%26%20Synopsis.pdf) that in 1981 the observation collection time, for both temperature and precipitation, shifted from 1600 Local Standard Time (LST) to 0800 LST with 31 May 1981 being the last data collection at 1600 and 1 Jun 1981 being the first data collected at 0800. Furthermore, on 2 Nov 2015, the observation collection time shifted to 2359 LST, though the shift from 0800 to 2359 is not visually significant on the plots. 
 
@@ -32,7 +34,7 @@ An ordinary least squares (OLS) linear regression was fit for the complete set o
 
 Given this significant change in temperature data collection, it was decided to include the maximum and minimum temperature values as part of the regression evaluation for a more continuous data set across the time period. Comparing the annual average minimum and maximum temperature values to the observed temperature values, it is clear that the trends calculated for the observed temperatures were disrupted by the change in data collection protocols. The trend line slope for the maximum temperature was 0.033 deg C per year and 0.024 deg C per year for the minimum temperature. 
 
-<embed type ="text/html" src ="img/annual_all_temps_plot_death_valley.html" width="600" height="600">
+<embed type ="text/html" src ="img/annual_all_temps_plot_death_valley.html" width="600" height="300">
 
 ![DVNP Min and Max Temperature Trends](img/mean_ann_temp_w_min_max_dvnp.jpeg)
 
