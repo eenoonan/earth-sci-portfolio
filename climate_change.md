@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Climate Change: Death Valley National Park"
-permalink: /climate_change_dvnp/
+permalink: /climate_change/
 ---
 ## Climate Change: Death Valley National Park
 
