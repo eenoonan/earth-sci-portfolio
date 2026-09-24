@@ -1,8 +1,3 @@
----
-layout: page
-title: "Climate Change: Death Valley National Park"
-permalink: /climate_change/
----
 ## Climate Change: Death Valley National Park
 
 ![Death Valley Sand Dunes California](img/Death_Valley.jpeg "Death Valley Dunes")
