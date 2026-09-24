@@ -1,9 +1,9 @@
----
-layout: page
-title: "Climate Change: Death Valley National Park"
-permalink: /climate_change_dvnp/
----
-
+#---
+#layout: page
+#title: "Climate Change: Death Valley National Park"
+#permalink: /climate_change_dvnp/
+#---
+#'''
 There are a variety of climate change indicators available to the average observer. 
 Temperature is one of the most persistent measures of climate change, because it is always available to be measured. Furthermore, most people have a reliable frame of reference for temperature 
 and how it impacts their daily lives. While individuals might look at the forecast or actual temperature of their surroundings regularly, it is the long term time history of these temperatures that tells the story of climate change. 
