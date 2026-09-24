@@ -4,6 +4,8 @@ title: "Climate Change: Death Valley National Park"
 permalink: /climate_change_dvnp/
 ---
 
+![Death Valley Dunes](img/Death_Valley.jpeg "Death Valley") 
+
 There are a variety of climate change indicators available to the average observer. 
 Temperature is one of the most persistent measures of climate change, because it is always available to be measured. Furthermore, most people have a reliable frame of reference for temperature 
 and how it impacts their daily lives. While individuals might look at the forecast or actual temperature of their surroundings regularly, it is the long term time history of these temperatures that tells the story of climate change. 
@@ -14,9 +16,9 @@ This portfolio exercise directed an evaluation of available temperature observat
 Death Valley National Park was selected for this exercise not only for its renown as one of the hottest places on earth but also because the author spent several years 
 living in the high desert within driving distance of Death Valley. The map below shows the perimeter of Death Valley National Park in California. The red dot is weather station source for the NOAA data located at 36.46263°, -116.8672° and an elevation of -59.1 m.
 
-<embed type ="text/html" src ="img/dvnp_wxs.html" width="600" height="400">
+<embed type ="text/html" src ="img/dvnp_wxs.html" width="600" height="600">
 
-The NOAA CDO daily summary station for Death Valley National Park shows a period of record of 26 April 1961 to the current month. While there are minimum and maximum values recorded through the 2026 data, the observed temperature values are NaN starting in 2022. This was verified by spot checking data using the Quick Data reports on the [station website](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00042319/detail). Further research revealed that changes were made to some of the Death Valley data collection after 2021 and there are changes being made to how Death Valley data is being stored and reported digitally as the [Death Valley Climate Book](https://www.weather.gov/vef/deathvalley_climatebook). Following preliminary examination of the data, it was determined that due to the large temperature swings of the high desert, using the partial year data for 1961 created a large disparity between the annual average temperature calculations for 1961 and for 1962 and later. Thus, the data was filtered to run from 1962-01-01 to 2021-12-31.
+The NOAA CDO daily summary station for Death Valley National Park shows a period of record of 26 Apr 1961 to the current month. While there are minimum and maximum values recorded through the 2026 data, the observed temperature values are NaN starting in 2022. This was verified by spot checking data using the Quick Data reports on the [station website](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00042319/detail). Further research revealed that changes were made to some of the Death Valley data collection after 2021 and there are changes being made to how Death Valley data is being stored and reported digitally as the [Death Valley Climate Book](https://www.weather.gov/vef/deathvalley_climatebook). Following preliminary examination of the data, it was determined that due to the large temperature swings of the high desert, using the partial year data for 1961 created a large disparity between the annual average temperature calculations for 1961 and for 1962 and later. Thus, the data was filtered to run from 1 Jan 1962 to 31 Dec 2021.
 
 ![Colorado Sunrise](img/CO_Sunrise.jpeg "Colorado Sunrise") 
 Need to add the daily observed temperatures
@@ -28,9 +30,9 @@ In both of these plots, there is a clear shift in the daily observed temperature
 
 An ordinary least squares (OLS) linear regression was fit for the complete set of observed temperature data. The trend line slope for the full data set is -0.154 deg C per year. The change in data collection protocols clearly impacted the regression and trend line calculations and overrode the growth of average temperatures. The OLS regression was repeated on the data split into two groups, the 1600 LST observations and the 0800 and 2359 LST observations. Given that there are only six data points in the 2359 LST observation set, that data remained with the 0800 LST data instead of being broken into a third data set. The trend line slopes calculated for the separated group were 0.003 deg C per year for the years 1962 to 1979 and 0.106 deg C per year for the years 1981 to 2021.
 
-![DVNP Observed Temperature Trends](img/mean_ann_temp_w_trend_dvnp.jpg) 
+![DVNP Observed Temperature Trends](img/mean_ann_temp_w_trend_dvnp.jpeg "DVNP Observed Temperature Trends") 
 
-![DVNP Grouped Observed Temperature Trends](img/mean_ann_temp_w_trend_split_dvnp.jpg) 
+![DVNP Grouped Observed Temperature Trends](img/mean_ann_temp_w_trend_split_dvnp.jpeg "DVNP Grouped Observed Temperature Trends") 
 
 Given this significant change in temperature data collection, it was decided to include the maximum and minimum temperature values as part of the regression evaluation for a more continuous data set across the time period. Comparing the annual average minimum and maximum temperature values to the observed temperature values, it is clear that the trends calculated for the observed temperatures were disrupted by the change in data collection protocols. The trend line slope for the maximum temperature was 0.033 deg C per year and 0.024 deg C per year for the minimum temperature. 
 
