@@ -1,6 +1,6 @@
 ## Migration: Snow Geese
-
-
+<iframe src="https://macaulaylibrary.org/asset/83406121/embed" height="550" width="640" frameborder="0" allowfullscreen></iframe>
+![Snow geese](https://macaulaylibrary.org/asset/83406121)
 >**Figure 1.** *Snow Goose*
 
 The snow goose, or Anser caerulescens, includes two subspecies: the Lesser Snow Goose (Anser caerulescens caerulescens) 
@@ -23,3 +23,8 @@ existing population of Greater Snow Geese. This group spends the winter on the E
 Canadian High Arctic and the western coast of Greenland. The central population spends the winter in the U.S. Midwest and Gulf Coast 
 and parts of eastern and central Mexico and breeds in arctic regions of Canada. The western population spends the winter in mostly in 
 California and Mexico and breeds in northern Alaska, Canada, and Russia.
+
+
+>**Figure 2.** *Snow Goose Distribution Map*
+>
+>BirdLife International (2021) Distribution map for Snow Goose Anser caerulescens. (https://www.allaboutbirds.org/guide/Snow_Goose/maps-range)
