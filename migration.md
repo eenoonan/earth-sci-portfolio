@@ -28,3 +28,7 @@ California and Mexico and breeds in northern Alaska, Canada, and Russia.
 >**Figure 2.** *Snow Goose Distribution Map*
 >
 >BirdLife International (2021) Distribution map for Snow Goose Anser caerulescens. (https://www.allaboutbirds.org/guide/Snow_Goose/maps-range)
+
+Global warming and climate change have been demonstrated to impact migratory birds by changing migration schedules as well as reducing availability or disrupting habitats and food sources. All of these factors can impact the populations and well-being of these migratory birds. Snow geese appear to not be experiencing the negative impacts of global warming and climate change to the same extent as other migratory species. Researchers report that snow goose populations continue to grow despite earlier thaws and that birds who have previously resided in the more southern breeding areas may be shifting their summering locations further north. Snow geese are less dependent upon "chasing the green wave" as they have bills that allow them to dig for buried plant matter if they arrive in an area before plants have sprouted. This ability paired with their voracious appetites and grazing habits mean that they can be more destructive to their habits, which could result in reduced viability of the habitats in the long run. It remains to be seen how long snow geese can continue to thrive in the face of global warming and climate change. 
+
+Observation data for 
