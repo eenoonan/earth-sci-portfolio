@@ -24,11 +24,19 @@ Canadian High Arctic and the western coast of Greenland. The central population 
 and parts of eastern and central Mexico and breeds in arctic regions of Canada. The western population spends the winter in mostly in 
 California and Mexico and breeds in northern Alaska, Canada, and Russia.
 
-
+![Snow Goose Map](img/snow_goose_map_allaboutbirds.jpg "Snow Goose Distribution Map")
 >**Figure 2.** *Snow Goose Distribution Map*
+>
+>Breeding (orange) / Migration (yellow) / Non-Breeding (Blue)
 >
 >BirdLife International (2021) Distribution map for Snow Goose Anser caerulescens. (https://www.allaboutbirds.org/guide/Snow_Goose/maps-range)
 
 Global warming and climate change have been demonstrated to impact migratory birds by changing migration schedules as well as reducing availability or disrupting habitats and food sources. All of these factors can impact the populations and well-being of these migratory birds. Snow geese appear to not be experiencing the negative impacts of global warming and climate change to the same extent as other migratory species. Researchers report that snow goose populations continue to grow despite earlier thaws and that birds who have previously resided in the more southern breeding areas may be shifting their summering locations further north. Snow geese are less dependent upon "chasing the green wave" as they have bills that allow them to dig for buried plant matter if they arrive in an area before plants have sprouted. This ability paired with their voracious appetites and grazing habits mean that they can be more destructive to their habits, which could result in reduced viability of the habitats in the long run. It remains to be seen how long snow geese can continue to thrive in the face of global warming and climate change. 
 
-Observation data for 
+Observation data taken from the Global Biodiversity Information Facility (GBIF) for snow geese in 2022 was used to evaluate migration patterns throughout the calendar year. The data was selected under the scientific name, Anser caerulescens, which includes both the lesser and the greater snow goose. The preliminary data set included 130,345 data points of observation month, latitude, and longitude. Using the latitude and longitude, the observations were mapped to ecoregions and any singular occurrences were removed from the data set to eliminate potential misidentifications. Mean observations were calculated by ecoregion and also by month. These mean values were used to normalize the occurrences by space and time. Figure 3 shows the raw distribution of occurrences and Figure 4 shows the normalized distribution of occurrences. Both of these plots use a color palette based on ecoregion. These plots show that the bulk of occurrences during the summer months are concentrated in just a few ecoregions while the occurrences are much more widely distributed across ecoregions during the winter months.  
+
+![Snow Goose Occurrences (Raw)](img/snow_goose_raw_occurr.png "Snow Goose Raw Occurrences")
+>**Figure 3.** *Snow Goose Raw Occurrences by Ecoregion and Month*
+
+![Snow Goose Occurrences (Normalized)](img/snow_goose_norm_occurr.png "Snow Goose Normalized Occurrences")
+>**Figure 4.** *Snow Goose Normalized Occurrences by Ecoregion and Month*
