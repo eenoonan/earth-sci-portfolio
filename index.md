@@ -50,6 +50,7 @@ ______
 The Snow Goose (Anser caerulescens) is a migratory species native primarily to North America but observed in many locations around the world. 
 
 See more details [here](migration.md).
+
 ----
 
 #### Contact Information
