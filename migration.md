@@ -31,7 +31,16 @@ California and Mexico and breeds in northern Alaska, Canada, and Russia.
 >
 >BirdLife International (2021) Distribution map for Snow Goose Anser caerulescens. (https://www.allaboutbirds.org/guide/Snow_Goose/maps-range)
 
-Global warming and climate change have been demonstrated to impact migratory birds by changing migration schedules as well as reducing availability or disrupting habitats and food sources. All of these factors can impact the populations and well-being of these migratory birds. Snow geese appear to not be experiencing the negative impacts of global warming and climate change to the same extent as other migratory species. Researchers report that snow goose populations continue to grow despite earlier thaws and that birds who have previously resided in the more southern breeding areas may be shifting their summering locations further north. Snow geese are less dependent upon "chasing the green wave" as they have bills that allow them to dig for buried plant matter if they arrive in an area before plants have sprouted. This ability paired with their voracious appetites and grazing habits mean that they can be more destructive to their habits, which could result in reduced viability of the habitats in the long run. It remains to be seen how long snow geese can continue to thrive in the face of global warming and climate change. 
+Global warming and climate change have been demonstrated to impact migratory birds by changing migration schedules as well as reducing 
+availability or disrupting habitats and food sources. All of these factors can impact the populations and well-being of these migratory 
+birds. Snow geese appear to not be experiencing the negative impacts of global warming and climate change to the same extent as other 
+migratory species. Researchers report that snow goose populations continue to grow despite earlier thaws and potential mismatches between migration
+times and food availability in the northern summer habitats. This is in part due to the fact that snow geese have voracious appetites and a 
+destructive approach to feeding. Snow geese have bills that allow them to dig up plant roots, which makes their grazing highly destructive, 
+particularly when the birds are present in numbers a large as those of migrating snow geese. Habitat damage from snow geese has already had negative
+ecological impacts in some northern breeding grounds and birds who have previously resided in the more southern breeding areas have been observed to
+be shifting their summering locations further north. Both the snow goose populations and the ecosystems they are impacting are being monitored by 
+scientists and ecologists in efforts to balance what is best for the birds and the environment around them. 
 
 Observation data taken from the Global Biodiversity Information Facility (GBIF) for snow geese in 2022 was used to evaluate migration patterns throughout the calendar year. The data was selected under the scientific name, Anser caerulescens, which includes both the lesser and the greater snow goose. The preliminary data set included 130,345 data points of observation month, latitude, and longitude. Using the latitude and longitude, the observations were mapped to ecoregions and any singular occurrences were removed from the data set to eliminate potential misidentifications. Mean observations were calculated by ecoregion and also by month. These mean values were used to normalize the occurrences by space and time. Figure 3 shows the raw distribution of occurrences and Figure 4 shows the normalized distribution of occurrences. Both of these plots use a color palette based on ecoregion. These plots show that the bulk of occurrences during the summer months are concentrated in just a few ecoregions while the occurrences are much more widely distributed across ecoregions during the winter months.  
 
@@ -40,3 +49,21 @@ Observation data taken from the Global Biodiversity Information Facility (GBIF) 
 
 ![Snow Goose Occurrences (Normalized)](img/snow_goose_norm_occurr.png "Snow Goose Normalized Occurrences")
 >**Figure 4.** *Snow Goose Normalized Occurrences by Ecoregion and Month*
+
+The monthly grouped normalized occurrence data was plotted onto a map by ecoregion and a slider widget was applied to allow the user to step through the mapping of snow goose observation locations throughout the year. This interactive map is Figure 5. Comparison of the output of the interactive map with the Birdlife International map from All About Birds (Figure 2) yields both alignment and differences. The occurrences in North America align reasonably well with the published map, however there are clusters of observations in countries that are not included in the Birdlife International map. There are snow goose occurrences in western and northern Europe as well as western Russia. There are additionally some months with observations in Iceland, Hawaii, Japan, China. While these populations are not addressed in many of the common resources on birds, the snow goose fact sheet on the BirdLife International data website (https://datazone.birdlife.org/species/factsheet/snow-goose-anser-caerulescens) included a distribution table that included many of these locations with the birds' presence identified as vagrant, or far outside its normal habitat grounds, for most countries and as introduced for the United Kingdom and Norway. In the distribution table, the countries where the snow goose is identified as native are United States, Canada, Mexico, Greenland, and Russia. Literature search identified a paper from 2022 (Mooij) that documented research into historical records regarding the presence of the lesser snow goose in Eurasia, which would suggest that there were, and could still be, suitable habitats for the snow geese in these regions where less frequent observations are reported. 
+
+<embed type ="text/html" src ="img/migration_plot_snow_goose.html" width="600" height="900">
+>**Figure 5.** *Map of Snow Goose Normalized Distribution of Occurrences by Month*
+
+#### References
+1. Bird Life. (n.d.). Snow Goose. Retrieved from Data Zone by Bird Life: https://datazone.birdlife.org/species/factsheet/snow-goose-anser-caerulescens
+2. Cornell Lab. (n.d.). Snow Goose. Retrieved from Birds of the World: https://birdsoftheworld.org/bow/species/snogoo/cur/introduction
+3. Duffy, G., Pierpont, N., & Martin, C. L. (2005). Migration Patterns & Routes of the Greater Snow Goose . New York Department of Public Service. Retrieved from https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7B07500168-4F0A-45D1-8AA4-4C9A28D11CAC%7D
+4. Gieger, O. (2023, Jun 1). What migrating birds can teach us about managing for climate change . Retrieved from U.S. Fish & Wildlife Service: https://www.fws.gov/story/2023-06/what-migrating-birds-can-teach-us-about-managing-climate-change
+5. Mooij, J. H. (2022, November). Was the (Lesser Snow Goose (Anser c. caerulescens) once widespread in Eurasia? Goose Bulletin(28), 27-42. Retrieved from https://www.researchgate.net/publication/366723834_Was_the_Lesser_Snow_Goose_Anser_c_caerulescens_once_widespread_in_Eurasia
+6. New Study Finds Delayed Long-Distance Bird Migration Due to Climate Change. (2025, Jul 22). Retrieved from Mass Audubon: https://www.massaudubon.org/news/press-room/2025/new-study-finds-delayed-long-distance-bird-migration-due-to-climate-change
+7. Preston, E. (2020, Jan 13). Lack of Snow Is, Ironically, Helping Snow Geese. Retrieved from Hakai Magazine: https://hakaimagazine.com/news/lack-of-snow-is-ironically-helping-snow-geese/
+8. Snow Goose. (n.d.). Retrieved from Audubon Bird Guide: https://www.audubon.org/field-guide/bird/snow-goose
+9. Trent, S. (2025, Fall). Can Anything Stop the Explosion of Snow Geese in the Western Arctic? Retrieved 10 2026, from Audubon Magazine: https://www.audubon.org/magazine/can-anything-stop-explosion-of-snow-geese-western-arctic
+
+
