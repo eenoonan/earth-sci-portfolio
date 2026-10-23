@@ -42,6 +42,14 @@ Death Valley National Park is known as one of the hottest places on earth. I als
   <figcaption align="center"><b>Death Valley National Park observed temperature trends are distorted by the change in data collection protocols </b></figcaption>
 </figure><p></p>
 
+______
+
+##### Project 3: Migration
+*Acquire GBIF occurrence data for a terrestrial migratory species. Clean, analyze and plot the data on an interactive map.*
+
+The Snow Goose (Anser caerulescens) is a migratory species native primarily to North America but observed in many locations around the world. 
+
+See more details [here](migration.md).
 ----
 
 #### Contact Information
