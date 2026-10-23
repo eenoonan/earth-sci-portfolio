@@ -63,4 +63,9 @@ The monthly grouped normalized occurrence data was plotted onto a map by ecoregi
 8. Snow Goose. (n.d.). Retrieved from Audubon Bird Guide: https://www.audubon.org/field-guide/bird/snow-goose
 9. Trent, S. (2025, Fall). Can Anything Stop the Explosion of Snow Geese in the Western Arctic? Retrieved 10 2026, from Audubon Magazine: https://www.audubon.org/magazine/can-anything-stop-explosion-of-snow-geese-western-arctic
 
+[Link to the python code supporting this analysis](migration_notebook.html)
+
+[Return to Main Page](index.md)
+
+
 
