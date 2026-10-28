@@ -47,9 +47,12 @@ ______
 ##### Project 3: Migration
 *Acquire GBIF occurrence data for a terrestrial migratory species. Clean, analyze and plot the data on an interactive map.*
 
-The Snow Goose (Anser caerulescens) is a migratory species native primarily to North America but observed in many locations around the world. 
+The Snow Goose (Anser caerulescens) is a migratory species native primarily to North America but observed in many locations around the world. Snow geese spend their warm weather breeding season in the Arctic tundra including Alaska, northern Canada, Greenland, and Siberia. Most snow geese spend their winters in North America, between the United States and Mexico, even those that summer in Russia. Many migratory species are showing evidence of being negatively impacted by climate change. The snow goose population has grown rather than declined with climate change, however, climate change has impacted snow goose migrations and may be a factor in the impact the snow goose population has on its habitat. See more details [here](migration.md).
 
-See more details [here](migration.md).
+<figure>
+  <img src="img/snow_goose_ecoreg_count_bar.png" alt="Ecoregions with Snow Goose Occurrences (2022)">
+  <figcaption align="center"><b>The number of ecoregions with snow goose occurrences fluctuate with their migratory behavior </b></figcaption>
+</figure><p></p>
 
 ----
 
