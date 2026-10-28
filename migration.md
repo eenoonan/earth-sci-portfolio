@@ -25,9 +25,8 @@ and parts of eastern and central Mexico and breeds in arctic regions of Canada. 
 California and Mexico and breeds in northern Alaska, Canada, and Russia.
 
 ![Snow Goose Map](img/snow_goose_map_allaboutbirds.jpg "Snow Goose Distribution Map")
->**Figure 2.** *Snow Goose Distribution Map*
->
->Breeding (orange) / Migration (yellow) / Non-Breeding (Blue)
+>**Figure 2.** *Snow Goose distribution map showing regions where snow geese are found in the different phases of their migration cycle: 
+>Breeding (orange) / Migration (yellow) / Non-Breeding (Blue)*
 >
 >BirdLife International (2021) Distribution map for Snow Goose Anser caerulescens. (https://www.allaboutbirds.org/guide/Snow_Goose/maps-range)
 
@@ -45,20 +44,20 @@ scientists and ecologists in efforts to balance what is best for the birds and t
 Observation data taken from the Global Biodiversity Information Facility (GBIF) for snow geese in 2022 was used to evaluate migration patterns throughout the calendar year. The data was selected under the scientific name, Anser caerulescens, which includes both the lesser and the greater snow goose. The preliminary data set included 130,345 data points of observation month, latitude, and longitude. Using the latitude and longitude, the observations were mapped to ecoregions and any singular occurrences were removed from the data set to eliminate potential misidentifications. Mean observations were calculated by ecoregion and also by month. These mean values were used to normalize the occurrences by space and time. Figure 3 shows the normalized distribution of occurrences using a color palette based on ecoregion. The plots show that the bulk of occurrences during the summer months are concentrated in just a few ecoregions while the occurrences are much more widely distributed across ecoregions during the winter months.  
 
 ![Snow Goose Occurrences in 2022 (Normalized)](img/snow_goose_norm_occur_scatter.png "Snow Goose Normalized Occurrences (2022)")
->**Figure 3.** *Snow Goose Normalized Occurrences by Ecoregion and Month in 2022*
+>**Figure 3.** *Normalized occurrence values for snow goose presence in ecoregions in 2022 showing higher concentrations of geese during the summer months and wider distribution during the winter months*
 
 Figure 3 inspired additional questions about the details of snow geese occurrences across ecoregions. Figure 4 shows the number of ecoregions with more than one occurrence reported for each month. This plot shows that the snow geese are observed in fewer regions during the summer breeding season. The geese are more distributed during the rest of the year, with the largest number of ecoregions evident during the migration months. Figure 5 shows the total number of occurrences collected for snow geese by month and color coded by ecoregion. This figure presents a similar shape to the ecoregion count plot of Figure 4, however, the takeaway of this figure, which is further supported by the interactive map in Figure 6 below, is that the months with the lowest number of occurrences are likely due to the remoteness of the ecoregions where the snow geese reside during this time. It is demonstrated that the snow geese are concentrated in a smaller number of ecoregions but it must be highlighted that many of these breeding season ecoregions are sparsely populated with humans, thus the volume of occurrence reporting will be considerably lower than when snow geese are present in their winter habitats, which are more often near or within higher population areas. The conclusions drawn from these figures are also captured in the interactive map of Figure 6, which provides a map based time-variable visualization of snow goose activity.
 
 ![Ecoregions with Snow Goose Occurrences in 2022](img/snow_goose_ecoreg_count_bar.png "Ecoregions with Snow Goose Occurrences (2022)")
->**Figure 4.** *Monthly Count of Ecoregions with Snow Goose Occurrences in 2022*
+>**Figure 4.** *Monthly count of ecoregions with Snow Goose occurrences in 2022 showing dispersion across more ecoregions during the winter months and concentration in a smaller group of ecoregions during the summer months*
 
 ![Snow Goose Total Occurrences in 2022](img/snow_goose_occur_count_bar.png "Snow Goose Total Occurrences (2022)")
->**Figure 5.** *Snow Goose Total Occurrences by Month in 2022*
+>**Figure 5.** *Snow Goose total occurrences by month in 2022 demonstrating the significant difference in occurrence recording between the summer and winter seasons*
 
 The monthly grouped normalized occurrence data was plotted onto a map by ecoregion and a slider widget was applied to allow the user to step through the mapping of snow goose observation locations throughout the year. This interactive map is Figure 6. Comparison of the output of the interactive map with the Birdlife International map from the Cornell Lab All About Birds website (Figure 2) yields both alignment and differences. The occurrences in North America align reasonably well with the published map, however there are clusters of observations in countries that are not included in the Birdlife International map. There are snow goose occurrences in western and northern Europe as well as western Russia. There are additionally some months with observations in Iceland, Hawaii, Japan, China. While these populations are not addressed in many of the common resources on birds, the snow goose fact sheet on the BirdLife International data website included a distribution table that included many of these locations with the birds' presence identified as vagrant, or far outside its normal habitat grounds, for most countries and as introduced for the United Kingdom and Norway. In the distribution table, the countries where the snow goose is identified as native are United States, Canada, Mexico, Greenland, and Russia. Literature search identified a paper from 2022 (Mooij) that documented research into historical records regarding the presence of the lesser snow goose in Eurasia, which would suggest that there were, and could still be, suitable habitats for the snow geese in these regions where less frequent observations are reported. 
 
 <embed type ="text/html" src ="img/migration_plot_snow_goose.html" width="800" height="800">
->**Figure 6.** *Map of Snow Goose Normalized Distribution of Occurrences by Month*
+>**Figure 6.** *Map of Snow Goose normalized distribution of occurrences by month to visualize migratory movement between habitats*
 
 #### References
 1. BirdLife. (n.d.). Snow Goose. Retrieved from Data Zone by BirdLife: https://datazone.birdlife.org/species/factsheet/snow-goose-anser-caerulescens
